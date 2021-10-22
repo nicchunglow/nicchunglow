@@ -1,4 +1,4 @@
-### Hi there 👋
+### Obssessed with building things with my own two hands.👋👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicchunglow)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
